@@ -1,0 +1,36 @@
+<html> 
+<head> 
+<title>css</title> 
+<link rel="stylesheet" type="text/css" href="custom.css" /> </head> 
+<body> 
+<div id="container"> 
+<h1>Inline CSS</h1> 
+<p style="color:#FF0000; margin-left:20px; font-size:14px; background-color:#CCFF00; width:500px; height:300px"> 
+Inline CSS exaple for background color, font size, margin-left and for width.</p> 
+<h1>internal CSS</h1> 
+<div class="di"> 
+<table border="2"> 
+<tr> 
+<td>row1</td> 
+<td>row2</td> 
+</tr> </table> 
+</div> 
+<div class="mm">text box 
+<input type="text" name="text" style=" color:#00FF33; background-color:#FF0000; font-size:18px"> 
+</div> 
+<div id="mn"> 
+<h1>introduction</h1><br/> 
+<b>tag for bold</b><br/> 
+<h2>about clg</h2><br/> 
+<h3>create options</h3> 
+passwords 
+<input type="password"rollno="pws"><br/> 
+</div><br/> 
+<br/> 
+<h1>external css</h1> 
+<p class="ab">external css</p> 
+</div> <br /> 
+<p id="sm">example for external css </p> 
+</div> 
+</body> 
+</html>
